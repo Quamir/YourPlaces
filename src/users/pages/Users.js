@@ -5,7 +5,7 @@ import UsersList from '../components/UsersList';
 const Users = () => {
     const USERS = [
         {
-            id: 'U1',
+            id: 'u1',
             name: 'Mark Lamane', 
             image: 'https://images.fineartamerica.com/images-medium-large-5/sunny-beach-tropical-ocean-konradlew.jpg', 
             places: 3
